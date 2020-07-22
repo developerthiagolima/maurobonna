@@ -14,25 +14,7 @@
       {
         "id": "01",
         "arquivos":[{
-		    "arquivo": "F1.jpg",
-            "nome": "FORMOSA",
-            "link": "http://grupoformosa.com.br/",
-            "banner": "1",
-            "tipo": "url",
-            "formato": "jpg",
-            "cor": "ffffff"
-		},
-		{
-		    "arquivo": "F2.jpg",
-            "nome": "FORMOSA",
-            "link": "http://grupoformosa.com.br/",
-            "banner": "1",
-            "tipo": "url",
-            "formato": "jpg",
-            "cor": "ffffff"
-		},
-		{
-		    "arquivo": "F3.jpg",
+		    "arquivo": "F4.png",
             "nome": "FORMOSA",
             "link": "http://grupoformosa.com.br/",
             "banner": "1",
