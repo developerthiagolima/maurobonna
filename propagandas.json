@@ -50,9 +50,9 @@
 	  {
         "id": "05",
         "arquivos":[{
-            "arquivo": "D1.jpg",
-            "nome": "ETICA",
-            "link": "http://www.eticaweb.com.br",
+            "arquivo": "D2.jpg",
+            "nome": "FINAMA",
+            "link": "https://www.finama.edu.br/",
             "banner": "1",
             "tipo": "url",
             "formato": "jpg",
